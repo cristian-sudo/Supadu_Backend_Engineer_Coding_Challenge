@@ -104,7 +104,7 @@ make lint-check
 ## Tests <a id="markdown-header-tests"></a>
 
 ### Usage <a id="markdown-header-tests-usage"></a>
-
+IMPORTANT YOU NEED TO UNCOMMENT THE ormconfig.ts COMMENTS.
 First, you should create a test database with all tables (you can use this command to re-create test db as well):
 
 ```shell
