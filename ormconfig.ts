@@ -1,5 +1,5 @@
 // Remove comments for tests
-import User from './src/Entity/User/user.entity';
+// import User from './src/Entity/User/user.entity';
 
 
 module.exports = [
@@ -34,7 +34,7 @@ module.exports = [
     dropSchema: false,
     entities: [
       'dist/**/*.entity.{js, ts}',
-     User
+  //   User
     ],
     synchronize: false,
     migrations: [
